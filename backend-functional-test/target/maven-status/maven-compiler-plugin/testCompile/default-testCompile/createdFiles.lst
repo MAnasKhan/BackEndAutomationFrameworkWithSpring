@@ -1,0 +1,16 @@
+com\nisum\onestopshop\be\utils\RestUtilities.class
+com\nisum\onestopshop\be\dto\product\Product.class
+com\nisum\onestopshop\be\dto\product\Variant.class
+com\nisum\onestopshop\be\runner\Runner.class
+com\nisum\onestopshop\be\dto\Department.class
+com\nisum\onestopshop\be\dto\product\StockItem.class
+com\nisum\onestopshop\be\utils\CommonMethods.class
+com\nisum\onestopshop\be\dto\Category.class
+com\nisum\onestopshop\be\dto\product\ImageDto.class
+com\nisum\onestopshop\be\dto\product\Tag.class
+com\nisum\onestopshop\be\dto\product\ProductRequestDto.class
+com\nisum\onestopshop\be\runner\SpringConfiguration.class
+com\nisum\onestopshop\be\dto\product\Image.class
+com\nisum\onestopshop\be\stepdefenation\DepartmentTestCase.class
+com\nisum\onestopshop\be\db\DBMethods.class
+com\nisum\onestopshop\be\utils\ConnectionUtil.class

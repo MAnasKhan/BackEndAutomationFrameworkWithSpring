@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "name": "Accesories",
+    "deptDescription": "access",
+    "categories": [
+      {
+        "id": 6,
+        "name": "cat",
+        "categoryDescription": "cat shoes",
+        "categories": null,
+        "image_url": "googl.com"
+      },
+      {
+        "id": 5,
+        "name": "puma",
+        "categoryDescription": "puma shoes",
+        "categories": null,
+        "image_url": "googl.com"
+      },
+      {
+        "id": 1,
+        "name": "Shoes",
+        "categoryDescription": "Shoes",
+        "categories": [
+          {
+            "id": 24,
+            "name": "anasbhai",
+            "categoryDescription": "jawad1",
+            "categories": null,
+            "image_url": null
+          },
+          {
+            "id": 3,
+            "name": "nike",
+            "categoryDescription": "joggers",
+            "categories": [
+              {
+                "id": 4,
+                "name": "nike jogger",
+                "categoryDescription": "nike joggers",
+                "categories": null,
+                "image_url": "googl.com"
+              }
+            ],
+            "image_url": "googl.com"
+          },
+          {
+            "id": 21,
+            "name": "car",
+            "categoryDescription": "car des",
+            "categories": null,
+            "image_url": null
+          },
+          {
+            "id": 23,
+            "name": "jawad",
+            "categoryDescription": "jawad",
+            "categories": null,
+            "image_url": null
+          },
+          {
+            "id": 2,
+            "name": "Oxfords",
+            "categoryDescription": "oxfords",
+            "categories": null,
+            "image_url": "googl.com"
+          },
+          {
+            "id": 25,
+            "name": "anasbhai",
+            "categoryDescription": "jawad1",
+            "categories": null,
+            "image_url": "G:\\OneStopShop\\1stopshopbackend\\service\\business-admin-service//images//cstore.onestopshop.com//1//614e1e9a-6cc2-41be-a114-d54ab4855a62_intellij language change.png"
+          },
+          {
+            "id": 20,
+            "name": "car",
+            "categoryDescription": "car des",
+            "categories": null,
+            "image_url": null
+          },
+          {
+            "id": 22,
+            "name": "jawad",
+            "categoryDescription": "jawad",
+            "categories": null,
+            "image_url": null
+          }
+        ],
+        "image_url": "googl.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mobiles",
+    "deptDescription": "mobiles",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Apple Airpods",
+        "categoryDescription": "Apple Airpod",
+        "categories": null,
+        "image_url": "googl.com"
+      },
+      {
+        "id": 7,
+        "name": "Apple",
+        "categoryDescription": "Apple Phones",
+        "categories": [
+          {
+            "id": 8,
+            "name": "Iphone X",
+            "categoryDescription": "Apple New Model",
+            "categories": null,
+            "image_url": "googl.com"
+          }
+        ],
+        "image_url": "googl.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Electric Appliance",
+    "deptDescription": "Electronic Appliance",
+    "categories": [
+      {
+        "id": 10,
+        "name": "Washing Machine",
+        "categoryDescription": "Washing Machine",
+        "categories": [
+          {
+            "id": 11,
+            "name": "Automatic Machine",
+            "categoryDescription": "Automatic Washing Machine",
+            "categories": [
+              {
+                "id": 12,
+                "name": "Manual Machine",
+                "categoryDescription": "Manual Machine",
+                "categories": [
+                  {
+                    "id": 13,
+                    "name": "Manual Machine Without Spinner",
+                    "categoryDescription": "Manual Machine Without Spinner",
+                    "categories": null,
+                    "image_url": "googl.com"
+                  },
+                  {
+                    "id": 14,
+                    "name": "Manual Machine With Spinner",
+                    "categoryDescription": "Manual Machine With Spinner",
+                    "categories": [
+                      {
+                        "id": 15,
+                        "name": "Manual Machine With 1- Spinner",
+                        "categoryDescription": "Manual Machine With 1- Spinner14",
+                        "categories": null,
+                        "image_url": "googl.com"
+                      },
+                      {
+                        "id": 16,
+                        "name": "Manual Machine With 1- Spinner",
+                        "categoryDescription": "Manual Machine With 1- Spinner",
+                        "categories": null,
+                        "image_url": null
+                      }
+                    ],
+                    "image_url": "googl.com"
+                  }
+                ],
+                "image_url": "googl.com"
+              }
+            ],
+            "image_url": "googl.com"
+          }
+        ],
+        "image_url": "googl.com"
+      }
+    ]
+  }
+]

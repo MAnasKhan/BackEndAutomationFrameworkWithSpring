@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="List of Departments" skipped="0" tests="2" time="278.13" timestamp="2019-03-21 07:22:02"><testcase name="Perform a get request and verify departments."/><testcase name="Search with filters."><failure message="expected:&lt;200&gt; but was:&lt;500&gt;" type="java.lang.AssertionError">expected:&lt;200&gt; but was:&lt;500&gt;</failure><system-err>expected:&lt;200&gt; but was:&lt;500&gt;&#13;
+com.nisum.onestopshop.be.stepdefenation.DepartmentTestCase.verifyStatus(DepartmentTestCase.java:62)&#13;
+✽.verify the status '200'(src/test/resources/featurefile/department.feature:19)&#13;
+</system-err></testcase></testsuite>

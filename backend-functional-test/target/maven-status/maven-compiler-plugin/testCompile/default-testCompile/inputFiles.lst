@@ -1,0 +1,16 @@
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\Department.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\db\DBMethods.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\product\ProductRequestDto.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\product\Product.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\runner\Runner.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\product\Image.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\product\ImageDto.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\utils\RestUtilities.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\utils\ConnectionUtil.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\product\Variant.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\stepdefenation\DepartmentTestCase.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\product\StockItem.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\runner\SpringConfiguration.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\Category.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\dto\product\Tag.java
+C:\git\1-stop-shop-tests\functional-tests\backend-functional-test\src\test\java\com\nisum\onestopshop\be\utils\CommonMethods.java

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"List of Departments","Perform a get request and verify departments.","SUCCESS","2019-03-15T19:52:00.635+05:00[Asia/Karachi]","0.0","2.26"
+"List of Departments","Search with filters.","FAILURE","2019-03-15T19:52:13.588+05:00[Asia/Karachi]","0.0","0.06"

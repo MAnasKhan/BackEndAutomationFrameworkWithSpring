@@ -1,0 +1,189 @@
+{"definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "required": [
+      "id",
+      "name",
+      "deptDescription",
+      "categories"
+    ],
+    "properties": {
+      "id": {
+        "$id": "#/items/properties/id",
+        "type": "integer",
+        "title": "The Id Schema",
+        "default": 0,
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "$id": "#/items/properties/name",
+        "type": "string",
+        "title": "The Name Schema",
+        "default": "",
+        "examples": [
+          "Accesories"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "deptDescription": {
+        "$id": "#/items/properties/deptDescription",
+        "type": "string",
+        "title": "The Deptdescription Schema",
+        "default": "",
+        "examples": [
+          "access"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "categories": {
+        "$id": "#/items/properties/categories",
+        "type": [
+          "array",
+          "null"
+        ],
+        "title": "The Categories Schema",
+        "default": null,
+        "items": {
+          "$id": "#/items/properties/categories/items",
+          "type": "object",
+          "title": "The Items Schema",
+          "required": [
+            "id",
+            "name",
+            "categoryDescription",
+            "categories",
+            "image_url"
+          ],
+          "properties": {
+            "id": {
+              "$id": "#/items/properties/categories/items/properties/id",
+              "type": "integer",
+              "title": "The Id Schema",
+              "default": 0,
+              "examples": [
+                1
+              ]
+            },
+            "name": {
+              "$id": "#/items/properties/categories/items/properties/name",
+              "type": "string",
+              "title": "The Name Schema",
+              "default": "",
+              "examples": [
+                "Shoes"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "categoryDescription": {
+              "$id": "#/items/properties/categories/items/properties/categoryDescription",
+              "type": "string",
+              "title": "The Categorydescription Schema",
+              "default": "",
+              "examples": [
+                "Shoes"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "categories": {
+              "$id": "#/items/properties/categories/items/properties/categories",
+              "type": [
+                "array",
+                "null"
+              ],
+              "title": "The Categories Schema",
+              "default": null,
+              "items": {
+                "$id": "#/items/properties/categories/items/properties/categories/items",
+                "type": "object",
+                "title": "The Items Schema",
+                "required": [
+                  "id",
+                  "name",
+                  "categoryDescription",
+                  "categories",
+                  "image_url"
+                ],
+                "properties": {
+                  "id": {
+                    "$id": "#/items/properties/categories/items/properties/categories/items/properties/id",
+                    "type": "integer",
+                    "title": "The Id Schema",
+                    "default": 0,
+                    "examples": [
+                      24
+                    ]
+                  },
+                  "name": {
+                    "$id": "#/items/properties/categories/items/properties/categories/items/properties/name",
+                    "type": "string",
+                    "title": "The Name Schema",
+                    "default": "",
+                    "examples": [
+                      "anasbhai"
+                    ],
+                    "pattern": "^(.*)$"
+                  },
+                  "categoryDescription": {
+                    "$id": "#/items/properties/categories/items/properties/categories/items/properties/categoryDescription",
+                    "type": "string",
+                    "title": "The Categorydescription Schema",
+                    "default": "",
+                    "examples": [
+                      "jawad1"
+                    ],
+                    "pattern": "^(.*)$"
+                  },
+                  "categories": {
+                    "$id": "#/items/properties/categories/items/properties/categories/items/properties/categories",
+                    "type": [
+                      "array",
+                      "null"
+                    ],
+                    "title": "The Categories Schema",
+                    "default": null,
+                    "examples": [
+                      null
+                    ]
+                  },
+                  "image_url": {
+                    "$id": "#/items/properties/categories/items/properties/categories/items/properties/image_url",
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "title": "The Image_url Schema",
+                    "default": null,
+                    "examples": [
+                      null
+                    ]
+                  }
+                }
+              }
+            },
+            "image_url": {
+              "$id": "#/items/properties/categories/items/properties/image_url",
+              "type": [
+                "string",
+                "null"
+              ],
+              "title": "The Image_url Schema",
+              "default": "",
+              "examples": [
+                "googl.com"
+              ],
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      }
+    }
+  }
+}
